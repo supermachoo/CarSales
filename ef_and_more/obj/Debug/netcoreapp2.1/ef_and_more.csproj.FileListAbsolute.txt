@@ -1,0 +1,6 @@
+D:\Project\CarSales\ef_and_more\bin\Debug\netcoreapp2.1\ef_and_more.deps.json
+D:\Project\CarSales\ef_and_more\bin\Debug\netcoreapp2.1\ef_and_more.dll
+D:\Project\CarSales\ef_and_more\obj\Debug\netcoreapp2.1\ef_and_more.csprojAssemblyReference.cache
+D:\Project\CarSales\ef_and_more\obj\Debug\netcoreapp2.1\ef_and_more.csproj.CoreCompileInputs.cache
+D:\Project\CarSales\ef_and_more\obj\Debug\netcoreapp2.1\ef_and_more.AssemblyInfoInputs.cache
+D:\Project\CarSales\ef_and_more\obj\Debug\netcoreapp2.1\ef_and_more.AssemblyInfo.cs

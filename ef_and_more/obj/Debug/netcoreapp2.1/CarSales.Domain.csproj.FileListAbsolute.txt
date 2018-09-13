@@ -1,0 +1,9 @@
+D:\Project\CarSales\ef_and_more\bin\Debug\netcoreapp2.1\CarSales.Domain.deps.json
+D:\Project\CarSales\ef_and_more\bin\Debug\netcoreapp2.1\CarSales.Domain.dll
+D:\Project\CarSales\ef_and_more\bin\Debug\netcoreapp2.1\CarSales.Domain.pdb
+D:\Project\CarSales\ef_and_more\obj\Debug\netcoreapp2.1\CarSales.Domain.csprojAssemblyReference.cache
+D:\Project\CarSales\ef_and_more\obj\Debug\netcoreapp2.1\CarSales.Domain.csproj.CoreCompileInputs.cache
+D:\Project\CarSales\ef_and_more\obj\Debug\netcoreapp2.1\CarSales.Domain.AssemblyInfoInputs.cache
+D:\Project\CarSales\ef_and_more\obj\Debug\netcoreapp2.1\CarSales.Domain.AssemblyInfo.cs
+D:\Project\CarSales\ef_and_more\obj\Debug\netcoreapp2.1\CarSales.Domain.dll
+D:\Project\CarSales\ef_and_more\obj\Debug\netcoreapp2.1\CarSales.Domain.pdb
